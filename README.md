@@ -6,7 +6,7 @@ Portscan Pro is a powerful cybersecurity tool designed for robust and concurrent
 
 ## Features
 
-- **Robust Port Scanning:** Detects open ports across a wide range, providing a comprehensive view of the network.
+- **Robust Port Scanning:** Detects open ports across a wide range, providing a comprehensive view of the network for services that ask for login and passwords.
 
 - **Concurrent Scanning:** Utilizes multithreading for efficient and high-speed scans, saving time and resources.
 
