@@ -25,7 +25,7 @@ Portscan Pro is a powerful cybersecurity tool designed for robust and concurrent
 
 - **Comprehensive Security Testing:** Conducts thorough security testing to identify vulnerabilities and weaknesses.
 
-- **Advanced Injection Testing:** Tests for SQL, ASP, and HTML injection vulnerabilities, enhancing system security.
+- **Advanced Injection Testing:** Takes ports, user and password files to test any login system on the fly.
 
 - **Efficient Data Management:** Stores scan results in SQLite databases for efficient data handling.
 
@@ -42,10 +42,3 @@ Portscan Pro is a powerful cybersecurity tool designed for robust and concurrent
 
 - **Efficient Data Handling:** SQLite database support simplifies data management and reporting.
 
-## Getting Started
-
-For detailed usage instructions and examples, please refer to the [documentation](https://yourdocumentationlink).
-
-## License
-
-This tool is open-source and distributed under the [MIT License](LICENSE).
