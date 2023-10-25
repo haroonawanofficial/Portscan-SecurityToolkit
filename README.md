@@ -1,8 +1,8 @@
-# Portscan-auth - Advanced Port Authentication Scanner
+# Portscan Pro - Advanced Port Authentication Scanner
 
 ## Overview
 
-PortGuard Pro is a powerful cybersecurity tool designed for robust and concurrent port authentication scans. It's a versatile utility for conducting cybersecurity drills, ensuring network security, and testing authentication mechanisms. With its innovative features and capabilities, PortGuard Pro offers numerous advantages and benefits.
+Portscan Pro is a powerful cybersecurity tool designed for robust and concurrent port authentication scans. It's a versatile utility for conducting cybersecurity drills, ensuring network security, and testing authentication mechanisms. With its innovative features and capabilities, it offers numerous advantages and benefits.
 
 ## Features
 
@@ -22,9 +22,8 @@ PortGuard Pro is a powerful cybersecurity tool designed for robust and concurren
 
 - **Verification of Successful Logins:** Ensures that authentication attempts are validated by verifying successful logins.
 
-## Cybersecurity Advantages
 
-PortGuard Pro offers several cybersecurity advantages:
+## Cybersecurity Advantages
 
 - **Comprehensive Security Testing:** Conducts thorough security testing to identify vulnerabilities and weaknesses.
 
@@ -34,9 +33,8 @@ PortGuard Pro offers several cybersecurity advantages:
 
 - **Accurate Reporting:** HTML reports offer comprehensive insights into scan results and security posture.
 
-## Benefits
 
-PortGuard Pro provides the following benefits:
+## Benefits
 
 - **Time Savings:** Concurrent scanning and multithreading accelerate the scanning process.
 
@@ -53,14 +51,3 @@ For detailed usage instructions and examples, please refer to the [documentation
 ## License
 
 This tool is open-source and distributed under the [MIT License](LICENSE).
-
-## Contributors
-
-- John Doe ([johndoe](https://github.com/johndoe))
-- Jane Smith ([janesmith](https://github.com/janesmith))
-
----
-
-For more information and updates, visit the [PortGuard Pro GitHub repository](https://github.com/yourrepositorylink).
-
-We welcome contributions and feedback from the cybersecurity community.
