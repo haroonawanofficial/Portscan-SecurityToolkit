@@ -10,9 +10,7 @@ Portscan Pro is a powerful cybersecurity tool designed for robust and concurrent
 
 - **Concurrent Scanning:** Utilizes multithreading for efficient and high-speed scans, saving time and resources.
 
-- **Login Form Detection:** Automatically identifies login forms and targeted authentication mechanisms on web pages.
-
-- **Injection Bypass:** Conducts SQL, ASP, and HTML injection bypass tests to detect vulnerabilities and security flaws.
+- **Port Login Detection:** Automatically identifies logins on targeted authentication mechanisms.
 
 - **Supports User and Password Files:** Enables the use of user and password files, increasing flexibility for testing scenarios.
 
